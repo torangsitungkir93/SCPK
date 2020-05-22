@@ -1,1 +1,1 @@
-# SCPK
+# SCPK - Tugas Akhir
